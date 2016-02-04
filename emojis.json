@@ -6503,5 +6503,10 @@
     "keywords": ["mad", "injured", "doom", "oldschool", "custom_"],
     "char": null,
     "category": "_custom"
+  },
+  "instagramverified" : {
+    "keywords" : ["famous", "verified"],
+    "char" : null,
+    
   }
 }
